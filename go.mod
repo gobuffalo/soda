@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/gobuffalo/attrs v0.1.0
-	github.com/gobuffalo/fizz v1.9.5
+	github.com/gobuffalo/fizz v1.9.8
 	github.com/gobuffalo/genny/v2 v2.0.5
 	github.com/gobuffalo/logger v1.0.3
 	github.com/gobuffalo/pop/v5 v5.0.7
